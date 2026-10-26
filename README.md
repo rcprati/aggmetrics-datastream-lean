@@ -73,4 +73,6 @@ gradual and reoccurring drift profiles, and every empirical result of the paper.
 
 ## Citation and license
 
-To be added.
+Released under the [Apache License 2.0](LICENSE), the license of Lean 4 and Mathlib, which this project
+depends on. Each Lean file carries the Mathlib-style copyright header. See `CITATION.cff` to cite the
+software; cite the paper as well.

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "aggmetrics-datastream-lean: Lean 4 formalization of a temporal algebraic framework for data stream evaluation"
+message: "If you use this software, please cite the companion paper as well."
+type: software
+authors:
+  - family-names: Prati
+    given-names: Ronaldo C.
+    orcid: "https://orcid.org/0000-0001-8597-4987"
+    affiliation: "Universidade Federal do ABC (UFABC)"
+license: Apache-2.0
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - data streams
+  - performance measures
+references:
+  - type: article
+    title: "A Temporal Algebraic Framework for Data Stream Evaluation Under Delayed Labels and Distribution Shifts"
+    authors:
+      - family-names: Prati
+        given-names: Ronaldo C.
+      - family-names: Faria
+        given-names: Elaine Ribeiro de
+    status: in-preparation

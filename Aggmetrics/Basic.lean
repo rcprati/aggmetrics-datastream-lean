@@ -1,3 +1,8 @@
+/-
+Copyright (c) 2026 Ronaldo C. Prati. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Ronaldo C. Prati
+-/
 import Mathlib
 
 /-!
